@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Tantan](http://tantanapp.com)
+- 💼 FrontEnd Engineer at Beijing
 
 - 🌱 I love writing mobile client applications in Java and Flutter
 
