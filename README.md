@@ -1,12 +1,9 @@
-
-🇨🇳🇨🇳🇨🇳
-
 **About me**
 
-- 💼 FrontEnd Engineer at Beijing
+- FrontEnd Engineer at Beijing
 
-- 🌱 I love writing mobile client applications in Java and Flutter
+- I love writing mobile client applications in Java and Flutter
 
-- ❤️ I love philosophy, TCM massage
+- I love philosophy, TCM massage
 
-- 💬 Ask me about anything [here](https://github.com/OldJii/oldjii/issues)
+- Ask me about anything [here](https://github.com/OldJii/oldjii/issues)
