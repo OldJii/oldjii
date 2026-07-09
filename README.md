@@ -8,6 +8,6 @@
 - I love philosophy and traditional wellness
 - Ask me about anything [here](https://github.com/OldJii/oldjii/issues)
 
-#### Support My Work ☕️
+#### Support My Work
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/folay)
